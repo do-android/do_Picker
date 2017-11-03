@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_Picker/libs/docore.jar
+/doExt_do_Picker/do_build.xml
+/doExt_do_Picker/do_Picker.zip
